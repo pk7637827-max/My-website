@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 50px; }
+  </style>
+</head>
+<body>
+  <h1>Hello World!</h1>
+  <button onclick="alert('Website working!')">Click Me</button>
+</body>
+</html>
